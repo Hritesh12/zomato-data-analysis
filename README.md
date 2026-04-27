@@ -56,11 +56,12 @@ Built a 4-page interactive dashboard:
 ---
 
 ## 📂 Project Structure
-- `data/` → cleaned dataset
-- `notebooks/` → Python analysis
-- `powerbi/` → dashboard file
-- `images/` → dashboard screenshots
 
+- `resources/` → Dataset & Power BI dashboard links
+- `notebooks/` → Python analysis
+- `images/` → Dashboard screenshots
+- `README.md` → Documentation
+- `requirements.txt` → Dependencies
 ---
 
 ## 🚀 Outcome
