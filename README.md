@@ -1,4 +1,4 @@
-# 🍽️ Zomato Bangalore Data Analysis
+# 🍽️ Zomato Bangalore Restaurant Data Analysis
 
 ## 📌 Overview
 This project analyzes restaurant data from Zomato Bangalore to understand customer behavior, pricing trends, and restaurant performance.
